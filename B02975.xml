@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno 43. Elizabethæ Reginæ. Chap XII. Commissions awarded to hear and determine policies of assurances made among merchants, and the commissioners authority</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02975</idno>
+            <idno type="STC">Wing E1283A</idno>
+            <idno type="STC">ESTC R175074</idno>
+            <idno type="EEBO-CITATION">53299070</idno>
+            <idno type="OCLC">ocm 53299070</idno>
+            <idno type="VID">179840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179840)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2805:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno 43. Elizabethæ Reginæ. Chap XII. Commissions awarded to hear and determine policies of assurances made among merchants, and the commissioners authority</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insurance, Inland marine --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179840:1" rendition="simple:additions"/>
+            <head>Anno <hi>43.</hi> Elizabethae Reginae. <hi>CHAP. XII.</hi> Commiſſions awarded to hear and determine Policies of Aſſurances made among Merchants, and the Commiſſioners Authority.</head>
+            <p>WHereas it ever hath been the Policy of this Realm by all good means to comfort and encourage the Merchant, thereby to ad<g ref="char:EOLhyphen"/>vance and increaſe the general Wealth of the Realm, Her Ma<g ref="char:EOLhyphen"/>jeſties Cuſtoms, and the ſtrength of Shipping; which Conſide<g ref="char:EOLhyphen"/>ration is now the more requiſite, becauſe Trade and Traffick is not at this preſent ſo open as at other times it hath been: And whereas it hath been time out of mind an uſage amongſt Merchants, both of this Realm and of Forein Nations, when they make any great Adventure, (eſpecially into remote parts) to give ſome conſideration of Money to other perſons (which commonly are in no ſmall number) to have from them Aſſurance made of their Goods, Merchan<g ref="char:EOLhyphen"/>dize, Ships, and things adventured, or ſome part thereof, at ſuch rates and in ſuch ſort, as the parties Aſſurers and the parties Aſſured can agree; which courſe of deal<g ref="char:EOLhyphen"/>ing is commonly termed, A Policy of Aſſurance. By means of which Policies of Aſſurance it cometh to paſs, upon the loſs or periſhing of any Ship, there followeth not the undoing of any man, but the Loſs lighteth rather eaſily upon many than heavily upon few, and rather upon them that adventure not than thoſe that do ad<g ref="char:EOLhyphen"/>venture; whereby all Merchants, eſpecially of the younger ſort, are allured to ven<g ref="char:EOLhyphen"/>ture more willingly and more freely. And wheras heretofore ſuch Aſſures have uſed to ſtand ſo juſtly and preciſely upon their Credits, as few or no Controverſies have riſen thereupon; and if any have grown, the ſame have from time to time been ended and ordered by certain grave and diſcreet Merchants appointed by the Lord Major of the City of <hi>London,</hi> as men by reaſon of their Experience fitteſt to underſtand, and ſpeedily to decide thoſe Cauſes, until of late years that divers per<g ref="char:EOLhyphen"/>ſons have withdrawn themſelves from that Arbitrary courſe, and have ſought to draw the parties Aſſured to ſeek their Moneys of every ſeveral Aſſurer by Suits com<g ref="char:EOLhyphen"/>menced in Her Majeſties Courts, to their great charges and delays. For remedy whereof be it Enacted by the Authority of this preſent Parliament, That it ſhall and may be lawful for the Lord Chancellor or Lord Keeper of the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for the time being, to award forth under the Great Seal of <hi>England</hi> one general or ſtanding Commiſſion, to be renewed yearly at the leaſt, and otherwiſe ſo oft as unto the ſaid Lord Chancellor or Lord Keeper ſhall ſeem good, for the hearing and determining of Cauſes ariſing and Policies of Aſſurances, ſuch as now are, or here<g ref="char:EOLhyphen"/>after ſhall be entered within the Office of Aſſurances within the City of <hi>London,</hi> and whereof no Suit ſhall be depending the laſt day of this Seſſion of Parliament in any of Her Majeſties Courts. Which Commiſſion ſhall be directed to the Judge of the Admiralty for the time being, the Recorder of <hi>London</hi> for the time being, two Doctors of the Civil Law, and two Common Lawyers, and eight grave and diſcreet Merchants, or to any five of them: Which Commiſſioners, or the greater part of them which ſhall ſit and meet, ſhall have by vertue of this preſent Act full Power and Authority to hear, examine, order, and decree all and every ſuch Cauſe and Cauſes concerning Polices of Aſſurances, in a brief and ſummary courſe, as to their diſcre<g ref="char:EOLhyphen"/>tion ſhall ſeem meet, without Formalities of Pleadings or Proceedings.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That it ſhall be lawful for the ſaid Commiſſioners as well to warn any of the Parties to come before them, as alſo to examine upon Oath any Witneſs that ſhall be produced, and to commit
+<pb n="2" facs="tcp:179840:2"/>
+to priſon without Bail or Mainpriſe any perſon that ſhall wilfully contemn or diſobay their final Orders or Decrees. And that the ſaid Commiſſioners ſhall once every week at the leaſt meet, and ſit upon the Execution of the ſaid Commiſſion in the Office of the Aſſurances, or in ſome other convenient publick place by them to be Aſſigned. And that no perſon by vertue of this Act may claim or exact any Fee, for any matter or cauſe concerning the Execution of the ſaid Commiſſion.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any perſon ſhall be grieved by Sentence or Decree of the ſaid Commiſſioners, that ſuch perſon ſo grieved may at any time within two Months of the ſaid Decree ſo made, exhibit his Bill into the High Court of Chancery for the re-examination of ſuch Decree; ſo as every perſon complainant, before he ſhall exhibit any ſuch Bill, do either execute and ſatisfie the ſaid Sentence ſo awarded, or at leaſt lay down <hi>in depoſito</hi> with the ſaid Commiſſioners, ſuch Sums of Money as he ſhall be awarded to pay, and that upon ſo doing the ſaid Complainant ſhall be enlarged of his Impriſonment. And that the Lord Chancellor or Lord Keeper for the time being ſhall have full Power and Authority by vertue of this Act, upon every complaint made in order as afore<g ref="char:EOLhyphen"/>ſaid, to reverſe or affirm every ſuch Sentence or Decree, according to equity and conſcience. And that the ſaid Lord Chancellor or Lord Keeper, in every Suit brought before him as aforeſaid by ſuch Aſſurers, and Decreed againſt the ſaid Aſſurers, ſhall award double coſts to the party aſſured.</p>
+            <p>Provided nevertheleſs, That no Commiſſioner ſhall intermeddle in the Execution of any ſuch Commiſſion in any cauſe or matter of Aſſurance, where himſelf ſhall be either a party Aſſurer or Aſſured, in the ſame Aſſurance which is brought in queſti<g ref="char:EOLhyphen"/>on. Nor that any Commiſſioner (other than the ſaid Judge of the Admiralty, and the Recorder of <hi>London</hi>) ſhall deal or proceed in the Execution of any ſuch Com<g ref="char:EOLhyphen"/>miſſion, before he have taken his corporal Oath before the Lord Major and Court of Aldermen of the City of <hi>London,</hi> to proceed uprightly and indifferently between party and party.</p>
+         </div>
+         <div type="text">
+            <head>Anno <hi>14.</hi> Caroli II. Regis. An Additional Act concerning matters of Aſſurances uſed amongſt Merchants.</head>
+            <p>WHereas by an Act of Parliament made in the three and fortieth Year of the Reign of Queen <hi>Elizabeth,</hi> of happy Memory Entituled, <hi>An Act concern<g ref="char:EOLhyphen"/>ing matters of Aſſurances uſed amongſt Merchants,</hi> the Parliament then taking into conſideration, by all good means to comfort and encourage the Merchants of this Kingdom, thereby to advance and increaſe the Wealth of this Realm, Her Majeſties Cuſtoms, and the ſtrength of Shipping, and for preventing of divers miſchiefs in the ſaid Act mentioned, it was Enacted, That it ſhould and might be lawful for the Lord Chancellor or Lord Keeper of the Great Seal of <hi>England</hi> for the time being, to award forth under the Great Seal of <hi>England,</hi> one general or ſtanding Commiſſion to be renewed yearly at the leaſt, and otherwiſe ſo often, as unto the Lord Chancellor or Lord Keeper ſhould ſeem meet, for the hearing and determing of Cauſes ariſing on Polices of Aſſurance, ſuch as then were or then after ſhould be entered within the Office of Aſſurance of the City of <hi>London;</hi> which Commiſſions ſhould be directed to the Judge of the Admiralty for the time being the Recorder of <hi>London</hi> for the time being, two Doctors of the Civil Law, two Common Lawyers, and eight grave or diſcreet Merchants, or any five of them; which Commiſſioners, or the greater part of them which ſhould ſit and meet, ſhould have full Power and Authority to hear, examine, order, and decree, all and every ſuch Cauſe and Cauſes, in a brief
+<pb n="3" facs="tcp:179840:2"/>
+and ſummary courſe, without formalities of Pleadings or Proceedings, with power to warn Parties to come before them, and to examine upon Oath any Witneſſes that ſhould be produced, and to commit to Priſon any perſon that ſhould wilfully diſobey their final Orders and Decrees. And the Commiſſioners to ſit once weekly upon the Execution of the ſaid Commiſſion; with a liberty in the ſaid Act for any perſon grieved by any ſuch Sentence or Decree, to exhibit his Bill in Chancery for the re-examination of ſuch Sentence or Decree, as by the ſaid Act (relation being there<g ref="char:EOLhyphen"/>unto had) more at large may appear. But foreaſmuch as by the ſaid recited Act, without five Commiſſioners there cannot be a Court, and without there be a Court they cannot proceed in the Execution of their Commiſſion, ſo much as to ſummon Parties or Witneſſes to appear: And in caſe of neglect or refuſal of any Party or Wit<g ref="char:EOLhyphen"/>neſs to appear, they have no power to puniſh the delay or contempt with coſts or otherwiſe. And it is provided by the ſaid Act, That not any Commiſſioner, other than the Judge of the Admiralty, or the Recorder of <hi>London,</hi> ſhall proceed in the Execution of ſuch Commiſſion, before he hath taken his Oath before the Lord Major and Court of Aldermen, to proceed uprightly and indifferently between Party and Party, which upon the renewing of the ſaid Commiſſions often proves a great delay, there being ſo many Commiſſioners to be ſworn, and the Court of Aldermen not ſitting at ſome times in the Year, when the ſaid Commiſſions have happened to be renewed: And although the ſaid Commiſſioners upon their final Sentence have power to commit to priſon any perſon that ſhall wilfully diſobey their ſaid Sentence or Decrees, yet they have no power to make any Order againſt the Ship or Goods which commonly are the things aſſured, by which Omiſſions or want of power given by the ſaid Act, the Benefits intended by the Act of Parliament are much retarded, and the Miſchiefs by the Act endeavoured to be prevented much increaſed.</p>
+            <p>For remedy whereof be it Enacted and Ordained, and it is hereby Enacted and Ordained by the Kings moſt Excellent Majeſty, and by and with the adviſe and conſent of the Lords Speritual and Temporal, and Commons in this preſent Parlia<g ref="char:EOLhyphen"/>ment aſſembled: That from and after the four and twentieth day of <hi>June,</hi> which ſhall be in the year of our Lord one thouſand ſix hundred ſixty and two, it ſhall and may be lawful to and for the Lord Chancellor or Lord Keeper of the Great Seal of <hi>England</hi> for the time being to iſſue out yearly, (or oftner if need require) one ſtanding Commiſſion under the great Seal of <hi>England,</hi> thereby impowering and authoriſing the ſaid Commiſſioners, or any three of them, (whereof a Doctor of the Civil Law, or a Bariſter at Law of five years ſtanding at the leaſt, to be always one) to meet and ſit and make a Court, and proceed in all things in the Exe<g ref="char:EOLhyphen"/>cution of the ſaid Commiſſion, as before by the ſaid Act any five might have done. And that the ſaid Commiſſioners, or any ſuch three of them as aforeſaid, be and hereby are impowred to ſummon Parties and Witneſſes to appear, and in caſe of contempt or wilful delay in the Witneſſes, upon the firſt Summons and tender of reaſonable charges, and in the Parties upon their ſecond Summons, to puniſh the Offenders by Impriſonment or Coſt, for ſuch time and in ſuch manner as ſhall be reaſonable, and according to the nature and quality of their Offences. And that it ſhall and may be lawful to and for every ſuch Commiſſioner, to proceed in the Exe<g ref="char:EOLhyphen"/>cution of the ſaid Commiſſion, having firſt taken an Oath before the Lord Major of the City of <hi>London</hi> for the time being only, to proceed uprightly and indiffe<g ref="char:EOLhyphen"/>rently between Party and Party: And the ſaid Lord Major is hereby authorized to give ſuch Oath, any thing in the ſaid Act to the contrary notwithſtanding. And that no perſon ſhall proceed in the Execution of the ſaid Commiſſion, before he be firſt ſworn before the Lord Major of <hi>London</hi> for the time being, to proceed upright<g ref="char:EOLhyphen"/>ly and indifferently between Party and Party, as formerly he ſhould have been before the Lord Major and Court of Aldermen.</p>
+            <p>Be it alſo Enacted by the Authority aforeſaid, That in caſe the Commiſſioners, or any ſuch three of them as aforeſaid, ſhall find cauſe to Examine Witneſſes be<g ref="char:EOLhyphen"/>yond the Seas, or any remote parts of His Majeſties Dominions, for the clearing
+<pb n="4" facs="tcp:179840:3"/>
+of any doubt or matter before them depending; that in ſuch caſe by direction of the ſaid Commiſſioners or any ſuch three of them, like Commiſſions or Proceſs ſhall iſſue out of the Court of Admiralty, as have formerly been for the purpoſes aforeſaid, returnable before the ſaid Commiſſioners. And that the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners, or any ſuch three of them, ſhall have alſo power to give and paſs their final Sentence, Decree and Execution, as well againſt the Body of the Party evicted or his Goods, as alſo againſt the Executors and Adminiſtrators of ſuch Party ſo evicted; and to aſſeſs Coſts of Suit upon ſuch perſon or perſons as ſhall be condemned by the Decree of the ſaid Court, as to them ſhall ſeem juſt.</p>
+            <p>And foraſmuch as many Witneſſes (as Seamen and others) come and ſpeedily go again to Sea, before a Court can be ſummoned, by which means the Aſſured and Aſſurers are many times much damnified: For the preventing of which miſchief be it alſo Enacted by the Authority aforſaid, That it ſhall and may be lawful to and for any one of the ſaid Commiſſioners to Adminiſter an Oath to any Witneſs legally ſummoned to give Teſtimony, (timely notice being thereof given to the adverſe Party, and ſet up in the Office before ſuch Examination) to the end ſuch Witneſs or Witneſſes may be croſs-examined.</p>
+            <p>Provided always, That the ſaid Commiſſioners ſhall in no caſe proceed both againſt Perſon and Goods for one and the ſame Debt. And provided alſo, That any thing in this Act contained ſhall not in any wiſe extend to prejudice the Appeal to the High Court of Chancery, given or allowed in the ſaid former Act of Parliament.</p>
+         </div>
+         <div type="text">
+            <head>Anno <hi>16.</hi> Caroli II. Regis.</head>
+            <p>AND be it Enacted, and it is hereby Enacted by the Authority aforeſaid; That all Tenders of Money, or Payment thereof, which by any Bonds, Covenants, or other Obligations or Aſſurance whatſoever, ought to be made in the late Aſſurance Office, or in any other place on the late Royal Exchange <hi>London,</hi> ſhall or may be made of or in the preſent Aſſurance Office, <hi>Greſham-Houſe.</hi> And it ſhall be as valid and legal to all intents and purpoſes, and diſcharge the Obligor as fully and amply, as if they had been made in the firſt intended place on the ſaid Royal Exchange.</p>
+            <pb facs="tcp:179840:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
